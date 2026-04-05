@@ -1,6 +1,10 @@
 <h3 align="left">🤓 Stats For Nerds :</h3>
-<p align="left"> <img height="160" src="https://readme-stats-fast.vercel.app/api?username=shashank-1010&show_icons=true&theme=radical" alt="shashank-1010"></p>
-
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashank-1010/shashank-1010/main/stats-dark.png">
+    <img height="160" src="https://raw.githubusercontent.com/shashank-1010/shashank-1010/main/stats-light.png" alt="GitHub Stats">
+  </picture>
+</p>
 ```py
 from GitHub import Readme
 
