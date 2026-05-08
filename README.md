@@ -7,7 +7,7 @@ from GitHub import Readme
 class Joy(Readme):
     "https://GitHub.com/shashank-1010/shashank-1010/README.md"
     def __init__(self):
-      self.name = "Joy"
+      self.name = "Shashank"
       self.age = 777+ 
       self.github = "@shashank-1010"
       self.location = "Jupiter"
