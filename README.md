@@ -1,6 +1,6 @@
 <h3 align="left">🤓 Stats For Nerds :</h3>
 <p align="left">
-  <img height="160" src="https://readme-stats-fast.vercel.app/api?username=shashank-1010&show_icons=true&theme=radical%22%20alt=%22shashank-1010"/>
+  <img height="160" src="https://readme-stats-fast.vercel.app/api?username=shashank-1010&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" alt="shashank-1010 stats" />
 </p>
 
 ```py
