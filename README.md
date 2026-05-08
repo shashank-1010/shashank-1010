@@ -11,6 +11,5 @@ class Shashank(Readme):
       self.age = 777+ 
       self.github = "@shashank-1010"
       self.location = "Pluto"
-```
 
-<img src="https://raw.githubusercontent.com/shashank-1010/shashank-1010/output/snake.svg" alt="Snake animation" />
+<!-- Updated Snake Animation - Latest Version --><!-- If this image doesn't load, check your GitHub Action workflow --><img src="https://raw.githubusercontent.com/shashank-1010/shashank-1010/output/snake.svg" alt="Snake animation" /> ```
