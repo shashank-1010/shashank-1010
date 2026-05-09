@@ -1,6 +1,6 @@
 <h3 align="left">🤓 Stats For Nerds :</h3>
 <p align="left">
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=shashank-1010&show_icons=true&theme=Radical" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=shashank-1010&show_icons=true&theme=radical" />
   <img height="160" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shashank-1010&theme=radical" />
 </p>
 
