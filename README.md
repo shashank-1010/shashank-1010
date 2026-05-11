@@ -3,7 +3,7 @@
   <a href="https://github.com/Shashank-1010">
     <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shashank-1010&cache_seconds=7200&layout=compact&theme=radical" alt="Shashank-1010's GitHub Stats" />
   </a>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shashank-1010&theme=radical" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shashank-1010&theme=radical" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Shashank-1010&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="shashank's GitHub Trophies" />
