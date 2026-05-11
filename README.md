@@ -1,7 +1,7 @@
 <h3 align="left">🤓 Stats For Nerds :</h3>
 <p align="left">
   <a href="https://github.com/Shashank-1010">
-    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shashank-1010&cache_seconds=7200&layout=compact&theme=radical" alt="Shashank-1010's GitHub Stats" />
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shashank-1010&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Shashank-1010's GitHub Stats" />
   </a>
   <img height="200" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shashank-1010&theme=radical" />
 </p>
